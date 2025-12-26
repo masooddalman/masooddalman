@@ -21,21 +21,39 @@
 
 <div align="center">
   <a href="./kotlin.md">
-    <img src="./assets/kotlin.jpg" width="400" alt="Kotlin">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/kotlinLight.jpg">
+      <img src="./assets/kotlin.jpg" width="400" alt="Kotlin">
+    </picture>
   </a>
   <a href="./flutter.md">
-    <img src="./assets/flutter.jpg" width="400" alt="Flutter">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/flutterLight.jpg">
+      <img src="./assets/flutter.jpg" width="400" alt="Flutter">
+    </picture>
   </a>
   <a href="./unity.md">
-    <img src="./assets/unity.jpg" width="400" alt="Unity">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/unityLight.jpg">
+      <img src="./assets/unity.jpg" width="400" alt="Unity">
+    </picture>
   </a>
   <a href="./swift.md">
-    <img src="./assets/swift.jpg" width="400" alt="Swift">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/swiftLight.jpg">
+      <img src="./assets/swift.jpg" width="400" alt="Swift">
+    </picture>
   </a>
   <a href="./arvr.md">
-    <img src="./assets/arVr.jpg" width="400" alt="ArVr">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/arVrLight.jpg">
+      <img src="./assets/arVr.jpg" width="400" alt="ArVr">
+    </picture>
   </a>
   <a href="./python.md">
-    <img src="./assets/python.jpg" width="400" alt="Python">
+    <picture>
+      <source media="(prefers-color-scheme: light)" srcset="./assets/pythonLight.jpg">
+      <img src="./assets/python.jpg" width="400" alt="Python">
+    </picture>
   </a>
 </div>
