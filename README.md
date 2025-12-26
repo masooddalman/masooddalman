@@ -19,6 +19,10 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=masooddalman&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masooddalman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+# 📂 Portfolio
+
+### 🖱️ Click on a banner to see projects in that category
+
 <div align="center">
   <a href="./kotlin.md">
     <picture>
