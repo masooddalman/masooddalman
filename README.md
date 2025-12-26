@@ -18,3 +18,24 @@
 ![](https://github-readme-stats.vercel.app/api?username=masooddalman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=masooddalman&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masooddalman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+<div align="center">
+  <a href="./kotlin.md">
+    <img src="./assets/kotlin.jpg" width="400" alt="Kotlin">
+  </a>
+  <a href="./flutter.md">
+    <img src="./assets/flutter.jpg" width="400" alt="Flutter">
+  </a>
+  <a href="./unity.md">
+    <img src="./assets/unity.jpg" width="400" alt="Unity">
+  </a>
+  <a href="./swift.md">
+    <img src="./assets/swift.jpg" width="400" alt="Swift">
+  </a>
+  <a href="./arvr.md">
+    <img src="./assets/arVr.jpg" width="400" alt="ArVr">
+  </a>
+  <a href="./python.md">
+    <img src="./assets/python.jpg" width="400" alt="Python">
+  </a>
+</div>
