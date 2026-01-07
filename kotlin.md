@@ -12,4 +12,7 @@ Projects developed using Kotlin and Jetpack Compose, covering mobile, desktop, a
   <a href="https://github.com/masooddalman/DecoratorPattern">
     <img src="https://github.com/masooddalman/DecoratorPattern/blob/master/assets/banner.jpg?raw=true" width="400" alt="DecoratorPattern">
   </a>
+   <a href="https://github.com/masooddalman/CarClockCompose">
+    <img src="https://github.com/masooddalman/CarClockCompose/blob/master/gitAssets/banner.jpg?raw=true" width="400" alt="CarClockCompose">
+  </a>
 </div>
