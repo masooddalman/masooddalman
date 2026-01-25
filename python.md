@@ -1,4 +1,4 @@
-# Python & Browser Extensions
+# Python, JS & Browser Extensions
 
 A collection of Python and browser extension projects focused on automation, tooling, and practical problem solving.
 
@@ -11,5 +11,8 @@ A collection of Python and browser extension projects focused on automation, too
   </a>
   <a href="https://github.com/masooddalman/Twitter-Region-Viewer">
     <img src="https://github.com/masooddalman/Twitter-Region-Viewer/blob/main/screens/banner.jpg?raw=true" width="400" alt="Twitter-Region-Viewer">
+  </a>
+  <a href="https://github.com/masooddalman/network-monitor">
+    <img src="https://github.com/masooddalman/network-monitor/blob/main/assets/banner.jpg?raw=true" width="400" alt="Twitter-Region-Viewer">
   </a>
 </div>
