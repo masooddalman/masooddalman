@@ -18,4 +18,7 @@ A collection of Python, JS and browser extension projects focused on automation,
   <a href="https://github.com/masooddalman/CCloud-stremio-addon/blob/main/README.en.md">
     <img src="https://github.com/masooddalman/CCloud-stremio-addon/blob/main/assets/banner.png?raw=true" width="400" alt="CCloud-stremio-addon">
   </a>
+    <a href="https://github.com/masooddalman/youtube-live-timelaps-maker">
+    <img src="https://github.com/masooddalman/youtube-live-timelaps-maker/blob/main/assets/banner.png?raw=true" width="400" alt="Youtube live timelaps maker">
+  </a>
 </div>
