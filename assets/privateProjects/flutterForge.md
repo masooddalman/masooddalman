@@ -7,7 +7,7 @@
 </div>
 
 <div align="center">
-  <img src="./flutterForge.png.png" width="600" alt="cli screen shot">
+  <img src="./flutterForge.png" width="600" alt="cli screen shot">
 </div>
 
 
