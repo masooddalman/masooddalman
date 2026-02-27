@@ -6,4 +6,9 @@ Projects developed using Swift and SwiftUI, targeting macOS, iOS, and other Appl
   <a href="https://github.com/masooddalman/Better-Wheel">
     <img src="https://github.com/masooddalman/Better-Wheel/raw/main/assets/banner.jpg" width="400" alt="Better-Wheel">
   </a>
+   </a>
+      </a>
+      <a href="./assets/privateProjects/stagemetaVisionpro.md">
+      <img src="./assets/privateProjects/stagemetaVisionPro.png" width="400" alt="Stage meta vision pro">
+    </a>
 </div>

@@ -10,4 +10,9 @@
     <a href="./assets/privateProjects/matchMonsters.md">
     <img src="./assets/privateProjects/matchMonsterBanner.png" width="400" alt="Match Monsters">
   </a>
+    </a>
+    <a href="./assets/privateProjects/stagemetaQuest.md">
+    <img src="./assets/privateProjects/stagemetaQuest.png" width="400" alt="Stage meta quest">
+  </a>
+
 </div>
