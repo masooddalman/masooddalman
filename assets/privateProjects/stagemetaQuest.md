@@ -1,4 +1,4 @@
-# Stage Meta
+# Stage Meta Quest devices
 <div align="center">
   <img src="./stagemetaQuest.png" width="400" alt="Stage meta quest">
   </div>

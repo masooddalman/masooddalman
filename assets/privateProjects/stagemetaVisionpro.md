@@ -1,4 +1,4 @@
-# Stage Meta
+# Stage Meta Vision Pro
 <div align="center">
   <img src="./stagemetaVisionPro.png" width="400" alt="Stage meta quest">
   </div>
