@@ -19,6 +19,13 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=masooddalman&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=masooddalman&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+
+<div align="center">
+  <a href="https://flowcv.com/resume/lp58w1p29051">
+    <img src="./assets/privateProjects/clickToSeeMyResume.png" alt="Click to see my resume">
+  </a>
+</div>
+
 # 📂 Portfolio
 
 ### 🖱️ Click on a banner to see projects in that category
